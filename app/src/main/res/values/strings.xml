@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">GeoQuiz</string>
+
+    <!-- Buttons -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <!-- Toast text-->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+    <!-- Nav buttons -->
+    <string name="next_button">Next</string>
+    <string name="prev_button">Preview</string>
+    <string name="goback">Go Quiz List</string>
+
+    <!-- Action buttons -->
+    <string name="reset_button">Reset</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Quiz List -->
+        <!-- Geografy -->
+        <string name="question_oceans">The Pacific Ocean is larger than tha Atlantic Ocean.</string>
+        <string name="question_mideast">The Suez Canal connects the Red Sea and the Indian Ocean.</string>
+        <string name="question_africa">The source of the Nile is in Egypt.</string>
+        <string name="question_americas">The Amazon River is the longest river in the Americas.</string>
+        <string name="question_asia">Lake Baikal is the oldest and deepest in the world.</string>
+        <!-- fin Geografy -->
+
+        <!-- Android -->
+        <string name="android1">Android is better than IOS.</string>
+        <string name="android2">It is possible that an operating system like android errors?</string>
+        <string name="android3">The announcement of the Android system was held on November 5, 2006?</string>
+        <string name="android4">The names of Android versions are named after animals?</string>
+        <string name="android5">Android Mola?</string>
+
+        <!-- Spring -->
+    <string name="spring1">¿Spring is a framework?</string>
+    <string name="spring2">The latest version of Spring is 4.0.4.</string>
+    <string name="spring3">Spring is comprised of different modules?</string>
+    <string name="spring4">Spring is single-platform.</string>
+    <string name="spring5">Spring is free.</string>
+
+        <!-- Programation -->
+        <string name="programation1">(3>2)</string>
+        <string name="programation2">if,else,for and while are control statements?</string>
+        <string name="programation3">The dimension of an array is the number of elements contained?</string>
+        <string name="programation4">If A is true and B is false, then the expression "A O B" is:</string>
+        <string name="programation5">Java is not an object oriented language?</string>
+
+        <!-- Stucom -->
+        <string name="stucom1">warren is a Catalan black.</string>
+        <string name="stucom2">If Jhan has the palms of the hands white is white.</string>
+        <string name="stucom3">Joan Grau is a Tara.</string>
+        <string name="stucom4">Marcel Gimeno is a Hippie.</string>
+        <string name="stucom5">Alfredo is one of the best teachers stucom.</string>
+
+
+
+    <!--Fin Quiz List -->
+
+    <!-- Register and Login coming soon -->
+    <string name="fname">First name</string>
+    <string name="lname">Last name</string>
+    <string name="uname">Username</string>
+    <string name="register">Register</string>
+    <string name="register2">Register</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Don\'t have account? Sign Up</string>
+    <string name="loginup">Are you registered? Login</string>
+
+</resources>
